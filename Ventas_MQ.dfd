@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+8
+Contador
+1
+0
+10
+Acumulador
+1
+0
+5
+Ciclo
+1
+0
+6
+1
+6
+Ventas
+1
+0
+9
+1
+7
+Ciclo=0
+4
+1
+26
+'ingrese la venta del dia'
+5
+1
+6
+Ventas
+6
+2
+8
+Contador
+10
+Contador+1
+10
+Acumulador
+17
+Acumulador+Ventas
+4
+1
+89
+'si quiere sumar otro prodructo marque 0 para continuar o cualquier numero para terminar'
+5
+1
+5
+Ciclo
+11
+4
+1
+69
+'usted a registrado ', Contador,' Ventas y ha acumulado $',Acumulador
+4
+1
+15
+'no cuento mas'
+1
